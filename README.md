@@ -1,7 +1,7 @@
 # how to setup a jupyter notebook
 ## install homebrew / wsl
 
-https://brew.sh/
+https://brew.sh/  
 https://learn.microsoft.com/en-us/windows/wsl/install
 
 ## install python on homebrew
